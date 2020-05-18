@@ -1,0 +1,6 @@
+framework module Pods_AntinoTests {
+  umbrella header "Pods-AntinoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

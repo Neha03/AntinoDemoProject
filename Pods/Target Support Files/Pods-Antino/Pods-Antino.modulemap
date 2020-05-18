@@ -1,0 +1,6 @@
+framework module Pods_Antino {
+  umbrella header "Pods-Antino-umbrella.h"
+
+  export *
+  module * { export * }
+}
